@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Synthwave/static/css/main.c7a5fea7.css",
+    "main.js": "/Synthwave/static/js/main.318cfefb.js",
+    "index.html": "/Synthwave/index.html",
+    "main.c7a5fea7.css.map": "/Synthwave/static/css/main.c7a5fea7.css.map",
+    "main.318cfefb.js.map": "/Synthwave/static/js/main.318cfefb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7a5fea7.css",
+    "static/js/main.318cfefb.js"
+  ]
+}
